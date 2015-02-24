@@ -1,0 +1,4 @@
+make compatible with python2
+better tex output
+remove tempfiles after generation
+find better script name
